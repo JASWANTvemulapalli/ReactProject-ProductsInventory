@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "product_name": "Iphone 13",
+      "product_description": "Iphone 13 is an ios smartphone powered by A15 Bionic",
+      "product_manufacturer": "Apple",
+      "product_price": "Rs 45000",
+      "Quantity": 10,
+      "id": 1
+    },
+    {
+      "product_name": "Samsung S20fe",
+      "product_description": "Samsung s20 fe comes with andriod 11 and powered by snapdragon 865",
+      "product_manufacturer": "Samsung",
+      "product_price": "Rs 30000",
+      "Quantity": 25,
+      "id": 4
+    },
+    {
+      "product_name": "Vivo X80Pro",
+      "product_description": "Vivo X80 pro comes with andriod 12 and powered by snapdragon 8Gen1 and inhouse made v1+ chip for isp",
+      "product_manufacturer": "Vivo",
+      "product_price": "Rs 78999",
+      "Quantity": 10,
+      "id": 6
+    },
+    {
+      "product_name": "Nothing Ear1",
+      "product_description": "Nothing Ear1 is a transparent design tws earphones with class leading sound quality",
+      "product_manufacturer": "Nothing",
+      "product_price": "Rs 7999",
+      "Quantity": 33,
+      "id": 7
+    },
+    {
+      "product_name": "Samsung S21fe",
+      "product_description": "samsung s21 is powered by exynos 2100 and comes with triple camera setup",
+      "product_manufacturer": "Samsung",
+      "product_price": "Rs 34999",
+      "Quantity": 15,
+      "id": 8
+    },
+    {
+      "product_name": "Realme GT2 pro",
+      "product_description": "Realme GT2 pro is powered by snapdragon 8+Gen1 and comes with paper texture designed back ",
+      "product_manufacturer": "Realme",
+      "product_price": "Rs 50000",
+      "Quantity": 13,
+      "id": 9
+    }
+  ]
+}

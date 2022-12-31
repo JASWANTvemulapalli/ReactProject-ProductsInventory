@@ -1,0 +1,136 @@
+h2 {
+    text-align: center;
+    color: #424874;
+}
+
+.rregisterform {
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right: 15%;
+    width: 400px;
+    height: auto;
+    padding: 10px 30px 30px 30px;
+    border-radius: 4%;
+    background-color: #DBE2EF
+}
+
+.rformdiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.rinput {
+    margin-bottom: 8px;
+    width: 80%;
+
+    /* display: flex;
+    flex-direction: row;
+    justify-content: center; */
+    text-align: center;
+}
+
+.rlabel {
+    font-size: large;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
+
+.rvalid {
+    margin-top: 15px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+.rtext {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    font-size: large;
+
+    margin-left: 29px;
+    text-align: center;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: #355C7D;
+}
+
+.rtext::placeholder {
+    text-align: center;
+    color: cadetblue;
+}
+
+.rerror {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    font-size: large;
+    margin-left: 29px;
+    text-align: center;
+    border-radius: 5px;
+    border-color: #E84545;
+}
+
+.rerror::placeholder {
+    text-align: center;
+    color: cadetblue;
+}
+
+.rsubmit {
+    margin-top: 10px;
+    text-align: center;
+    width: 80%;
+}
+
+.rbutton {
+    margin-left: 25%;
+    width: 60%;
+    margin-bottom: 10px;
+    background-color: slateblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    transition: 0.1s all ease-in-out;
+    border-radius: 8px;
+}
+
+.rbutton:hover {
+    background-color: #424874;
+    transform: scale(1.1);
+}
+
+.rsubmit #reg {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: red;
+    font-size: 1.5em;
+    visibility: hidden;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.rregister {
+    display: flex;
+    justify-content: center;
+}
+
+.rregister p {
+    font-size: larger;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.rregister a {
+    color: #F6416C;
+    font-size: 1.2em;
+}
+
+.rregister a:hover {
+    color: #F07B3F;
+    text-decoration: none;
+}

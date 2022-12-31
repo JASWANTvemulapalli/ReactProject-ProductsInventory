@@ -1,0 +1,118 @@
+.ProductList {
+    background-color: white;
+    margin-top: 7%;
+    width: 90%;
+    border-radius: 10px;
+    padding-top: 5px;
+    margin-left: 5%;
+
+}
+
+.heading {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #2D4059;
+    text-align: center;
+}
+
+.Line {
+    width: 80%;
+    border: 3px solid #7A4069;
+    border-radius: 5px;
+}
+
+.buttons {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.info {
+    margin-top: auto;
+    padding-top: 3px;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    border: #7A4069;
+    border-radius: 4px;
+    background-color: #46649e;
+    transition: transform .1s ease;
+    width: 100px;
+    text-align: center;
+    height: 30px;
+}
+
+.info:visited,
+.info:link {
+    color: white;
+    text-decoration: none;
+}
+
+.info:hover {
+    color: white;
+    transform: scale(1.1);
+    text-decoration: none;
+}
+
+.Table {
+    text-align: center;
+    padding-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 10px;
+}
+
+.Row {
+    text-align: center;
+}
+
+.Row:hover {
+    background-color: #DDFFBC;
+}
+
+.Head {
+    background-color: purple;
+}
+
+.update {
+    padding: 5px;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    border: #7A4069;
+    border-radius: 4px;
+    background-color: #46649e;
+    width: auto;
+    text-align: center;
+    height: auto;
+}
+
+.update:visited,
+.update:link {
+    color: white;
+    text-decoration: none;
+}
+
+.update:hover {
+    color: rgb(228, 175, 0);
+
+    text-decoration: none;
+}
+
+.product {
+    text-decoration: underline;
+    transition: all 0.1s ease-in-out;
+}
+
+.product:hover {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.589);
+    border-radius: 5px;
+    color: rgb(255, 196, 0);
+}
+
+.Delete:checked {
+    background-color: black;
+}

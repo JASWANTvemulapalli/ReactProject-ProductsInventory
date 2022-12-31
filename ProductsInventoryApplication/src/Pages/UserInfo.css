@@ -1,0 +1,50 @@
+.line {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.userdetails {
+    color: #FF165D;
+    font-size: larger;
+    font-style: oblique;
+}
+
+.card {
+    margin-top: 2%;
+    margin-left: 30%;
+    width: 400px;
+    background-color: #efefef;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.inf {
+    padding-top: 3px;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    border-radius: 4px;
+    background-color: #46649e;
+    transition: transform .1s ease;
+    width: 160px;
+    text-align: center;
+    height: 50px;
+}
+
+.inf:visited,
+.inf:link {
+    color: white;
+    text-decoration: none;
+}
+
+.inf:hover {
+    color: white;
+    transform: scaleY(1.1);
+    text-decoration: none;
+}

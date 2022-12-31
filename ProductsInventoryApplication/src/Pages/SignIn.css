@@ -1,0 +1,86 @@
+h2 {
+    text-align: center;
+    color: blueviolet;
+}
+
+.Form {
+    margin-top: 5%;
+    margin-left: 30%;
+    width: 300px;
+    height: auto;
+    padding: 10px 30px 30px 30px;
+    border-radius: 4%;
+    background-color: #ccceec
+}
+
+.valid {
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+    width: fit-content;
+    font-size: large;
+    margin-top: 10px;
+
+    border-radius: 4px;
+}
+
+.errortext {
+    font-family: 'Times New Roman', Times, serif;
+    width: fit-content;
+    font-size: large;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-color: red;
+    border-radius: 4px;
+}
+
+.submit {
+    display: flex;
+    flex-direction: column;
+
+    align-content: center;
+}
+
+.button {
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+    width: 80px;
+    background-color: rgba(88, 59, 218, 0.329);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    transition: 0.1s all ease-in-out;
+}
+
+.button:hover {
+    background-color: rgb(131, 43, 214);
+    transform: scale(1.1);
+}
+
+h4 {
+    text-align: center;
+    color: red;
+    visibility: hidden;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.register {
+    display: flex;
+    justify-content: center;
+}
+
+.register p {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.register a:hover {
+    color: darkorchid;
+    text-decoration: none;
+}

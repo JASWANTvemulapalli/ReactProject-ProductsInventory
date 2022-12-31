@@ -1,0 +1,41 @@
+.Home {
+
+    margin: 10% 20% 10% 30%;
+    padding: 2px 2px 2px 2px;
+    background-color: #222831;
+    border-radius: 10px;
+
+
+
+
+}
+
+div h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #AA96DA;
+    text-align: center;
+
+}
+
+.Links {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.About {
+    font-size: 1.3em;
+    color: #47B5FF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#designer {
+    color: #FFB200;
+
+    text-align: center;
+    font-size: 1.4em;
+    font-style: italic;
+}

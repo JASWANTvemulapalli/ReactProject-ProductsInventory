@@ -1,0 +1,41 @@
+.HeadingNavBar {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 6px;
+    margin-top: 6px;
+    color: gold;
+}
+
+.NavLink {
+    color: white;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 10px;
+    transition: 0.2s ease-in-out;
+}
+
+.NavLink:hover {
+    color: #F96666;
+    text-decoration: none;
+    transform: scale3dw(1.1);
+
+}
+
+.logout {
+    background-color: inherit;
+    color: white;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 10px;
+    transition: 0.2s ease-in-out;
+    border: none;
+}
+
+.logout:hover {
+    color: #F96666;
+    text-decoration: none;
+    transform: scale3dw(1.1);
+}
