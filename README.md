@@ -1,7 +1,7 @@
 
 # PRODUCTS INVENTORY
 
-PRODUCTS INVENTORY is a web based application built on react js.It contains information about products like the quantity,price,descripition etc.
+PRODUCTS INVENTORY is a web based application built on react js and used redux .It contains information about products like the quantity,price,descripition etc.
 Every person can be able to view the product Inventory and know the status of the products but inoder to perform changes to the products user should be registered.
  
 
