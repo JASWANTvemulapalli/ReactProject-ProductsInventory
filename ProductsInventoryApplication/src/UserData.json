@@ -1,22 +1,24 @@
 {
   "userdata": [
     {
-      "Email_Id": "vjaswant7@gmail.com",
-      "Password": "Narasimha@28",
-      "First_Name": "jaswant",
-      "Last_Name": "vemulapalli",
+      "Email_Id": "Test123@gmail.com",
+      "Password": "Test123@007",
+      "First_Name": "Test",
+      "Last_Name": "123",
       "Location": "3-59-A 3RD BLOCK THOTLAVALLURU\nNEAR SAI BABA TEMPLE",
-      "MobileNumber": "+917675957989",
+      "MobileNumber": "+91888888888",
       "id": 1
     },
     {
-      "Email_Id": "jassuvems@gmail.com",
-      "Password": "Jaswant@28",
-      "First_Name": "Jashwanth",
-      "Last_Name": "nallamilli",
-      "Location": "3-59 A 3RD BLOCK ,Near Sai Baba temple",
-      "MobileNumber": 9381394737,
+  {
+      "Email_Id": "Test456@gmail.com",
+      "Password": "Test456@007",
+      "First_Name": "Test",
+      "Last_Name": "456",
+      "Location": "3-59-A 3RD BLOCK THOTLAVALLURU\nNEAR SAI BABA TEMPLE",
+      "MobileNumber": "+91888888888",
       "id": 2
+    
     }
   ]
 }
